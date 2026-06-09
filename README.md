@@ -118,7 +118,7 @@ Escaneie o QR Code com o Expo Go para rodar no dispositivo fisico.
 
 ## Video de Demonstracao
 
-[Clique aqui para assistir a demonstracao](https://youtube.com/...)
+[Clique aqui para assistir a demonstracao](https://drive.google.com/file/d/1qNnD4gfv1F8YXlSTsww_q9OUrVpaLaO5/view?usp=drive_link)
 
 ## Arquivo de Entrega
 
@@ -130,7 +130,7 @@ Integrante 1: Bruno Anselmo da Silva | RM: 566521
 Integrante 2: Vinicius Ribeiro Dias | RM: 566468
 
 GitHub: https://github.com/Brunoxfx/GS_-Cross-Platform
-Video: https://...
+Video: https://drive.google.com/file/d/1qNnD4gfv1F8YXlSTsww_q9OUrVpaLaO5/view?usp=drive_link
 ```
 
 ## Licenca
