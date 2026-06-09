@@ -12,9 +12,8 @@ Orbital Sentinel e um aplicativo mobile em React Native + Expo para monitorament
 
 | Nome | RM |
 |------|----|
-| Nome Completo | RM000000 |
-| Nome Completo | RM000000 |
-| Nome Completo | RM000000 |
+| Bruno Anselmo da Silva | RM566521 |
+| Vinicius Ribeiro Dias | RM566468 |
 
 ## Repositorio
 
@@ -127,9 +126,8 @@ Escaneie o QR Code com o Expo Go para rodar no dispositivo fisico.
 === GLOBAL SOLUTION 2026.1 ===
 Disciplina: Cross-Platform Application Development
 
-Integrante 1: [Nome Completo] | RM: [XXXXXX]
-Integrante 2: [Nome Completo] | RM: [XXXXXX]
-Integrante 3: [Nome Completo] | RM: [XXXXXX]
+Integrante 1: Bruno Anselmo da Silva | RM: 566521
+Integrante 2: Vinicius Ribeiro Dias | RM: 566468
 
 GitHub: https://github.com/Brunoxfx/GS_-Cross-Platform
 Video: https://...
