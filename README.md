@@ -69,7 +69,7 @@ Formulario para configurar nome da missao, operador, atualizacao automatica e li
 - [x] Interface tematica espacial com componentes reutilizaveis
 - [x] TypeScript em todo o projeto
 - [ ] Integracao com API externa NASA ou ISS Tracking
-- [ ] Video de demonstracao publicado
+- [x] Video de demonstracao publicado
 
 ## Tecnologias
 
