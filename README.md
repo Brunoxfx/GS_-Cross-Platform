@@ -2,7 +2,7 @@
 
 ### Global Solution 2026.1 - Cross-Platform Application Development | FIAP
 
-![Banner do projeto](./assets/images/icon.png)
+![Logo do Orbital Sentinel](./assets/images/orbital-sentinel-logo-rocket.png)
 
 ## Descricao
 

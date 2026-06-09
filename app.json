@@ -4,7 +4,7 @@
     "slug": "orbital-sentinel",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/orbital-sentinel-logo-rocket.png",
     "scheme": "orbitalsentinel",
     "userInterfaceStyle": "automatic",
     "ios": {
@@ -12,9 +12,9 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
+        "backgroundColor": "#08111F",
+        "foregroundImage": "./assets/images/orbital-sentinel-logo-rocket.png",
+        "backgroundImage": "./assets/images/orbital-sentinel-logo-rocket.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false
@@ -29,9 +29,9 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/orbital-sentinel-logo-rocket.png",
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "backgroundColor": "#08111F"
         }
       ]
     ],
